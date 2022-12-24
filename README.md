@@ -10,7 +10,7 @@ We used Unity to create a 3D video game involving the forest scene which include
 
 
 ## Problem Statement & Way to Approach
-Please check out [Source Code](https://github.com/MaxyZhu75/Wildlife-Photography/blob/main/code/code.txt) and the [Presentation Slides](https://github.com/MaxyZhu75/Wildlife-Photography/blob/main/summary/Presentation%20Slides.pptx) for details.
+Please check out the [Source Code](https://github.com/MaxyZhu75/Wildlife-Photography/blob/main/code/code.txt) and the [Presentation Slides](https://github.com/MaxyZhu75/Wildlife-Photography/blob/main/summary/Presentation%20Slides.pptx) for details.
 
 
 
