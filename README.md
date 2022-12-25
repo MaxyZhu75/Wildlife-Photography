@@ -19,7 +19,7 @@ Note that since the size of source code is too large, please download the zip fi
 
 
 
-## Game Demo
+## Unity Game Demo
 ![Menu](https://github.com/MaxyZhu75/Wildlife-Photography/blob/main/summary/Menu.png)
 
 
