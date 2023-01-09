@@ -24,7 +24,7 @@ Note that since the size of source code is too large, please download the zip fi
 
 
 
-Please download the [Zip File](https://github.com/MaxyZhu75/Wildlife-Photography/blob/main/code/code.txt) and check out the demo video recorded by us.
+Please download the [Zip File](https://github.com/MaxyZhu75/Wildlife-Photography/blob/main/code/code.txt) and check out the playing demo video.
 
 
 
