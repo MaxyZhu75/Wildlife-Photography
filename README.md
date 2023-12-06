@@ -32,4 +32,4 @@ Please download the [Zip File](https://github.com/MaxyZhu75/Wildlife-Photography
 ## :calling: Contact
 Thank you so much for your interests. Note that this project can not straightforward be your course assignment solution. Do not download and submit my code without any change. Feel free to reach me out and I am happy to modify this Unity game further with you.
 * Email: maoqinzhu@umass.edu or zhumaxy@gmail.com
-* LinkedIn: [Max Zhu](https://www.linkedin.com/in/maoqin-zhu/)
+* LinkedIn: [Max Zhu](https://www.linkedin.com/in/maoqinzhu/)
